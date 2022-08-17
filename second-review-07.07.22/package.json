@@ -1,0 +1,23 @@
+{
+  "name": "07.07.22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aisha-Yusuff/Review-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aisha-Yusuff/Review-2/issues"
+  },
+  "homepage": "https://github.com/Aisha-Yusuff/Review-2#readme",
+  "dependencies": {
+    "jest": "^28.1.2"
+  }
+}
